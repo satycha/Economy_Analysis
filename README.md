@@ -45,3 +45,23 @@ From this dataset we could try to solve following questions:
         What are the economic trends and which feature contributes the most for potential gdp growth?
         What were the features during the financial crash of 2007 ?
         GDP change from 2005 to 2015?
+
+For the analysis included in the notebook, I have chosen to look at the following 4 questions:
+
+        Which year the HDI was highest and what were the correspondiong features for that HDI?
+        What are the economic trends and which feature contributes the most for potential gdp growth?
+        What were the features during the financial crash of 2007 ?
+        GDP change from 2005 to 2015?
+Conclusions
+
+The US economy grew at a steady rate of 2.30% this is purely dependent on the quality of the data
+The only time interest rates were lower than the inflation rate was during 2007 financial crisis
+A high level of capital per worker is available in developed countries and this leads to diminishing marginal productivity. The economy needs to invest more in technological advances to increase total factor productivity. An upward trend in R&D investement can contribute to the potential economic growth
+The highest HDI was associated with highest income Tax revenue and Investment highly contribute to GDP growth. An increase in labor participation and income contributes to tax revenue and investment
+The upward trend in labor participation for a given population is very good for the economy
+
+Limitations
+
+The dataset doen't answer unemployment related effects which directly impacts the tax revenue, investment, inflation and ultimately GDP
+The dataset shows us the trends over the years but it can't point out the exact cause for the decline and rise
+The data had lots of missing data and had to be filled with average to perform analysis. This could affect the accuracy of the data
